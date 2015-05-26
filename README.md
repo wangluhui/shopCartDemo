@@ -1,4 +1,4 @@
 # shopCartDemo
 加入购物车的动画效果
 
-  ![image](https://github.com/wangluhui/shopCartDemo/raw/master/shopCart.mov)
+ ![image](https://github.com/wangluhui/shopCartDemo/raw/master/test02.png)
