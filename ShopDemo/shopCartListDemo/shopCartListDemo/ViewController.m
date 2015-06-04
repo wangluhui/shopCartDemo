@@ -52,7 +52,7 @@
 -(void)addDataArray
 {
     for (int i= 0; i<10; i++) {
-        NSInteger index = random()%5+1;
+        NSInteger index = arc4random()%5+1;
         shopModel *model = [[shopModel alloc] init];
         model.shoppingIcon = [NSString stringWithFormat:@"test0%d.jpg",index];
         model.shoppingName = [NSString stringWithFormat:@"商品%d号",i];
