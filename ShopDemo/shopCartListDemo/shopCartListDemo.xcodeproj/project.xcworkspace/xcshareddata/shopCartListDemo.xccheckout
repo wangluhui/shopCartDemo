@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A4B34FD2-7518-4728-8C6C-A743CAD378B9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shopCartListDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9125E9C2B8156AF1B558956B2291F6EE43886DD</key>
+		<string>https://github.com/wangluhui/shopCartDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShopDemo/shopCartListDemo/shopCartListDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9125E9C2B8156AF1B558956B2291F6EE43886DD</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangluhui/shopCartDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9125E9C2B8156AF1B558956B2291F6EE43886DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9125E9C2B8156AF1B558956B2291F6EE43886DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>shopCartDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6B17B0A51B07814E0054B176"
-               BuildableName = "ShopDemo.app"
-               BlueprintName = "ShopDemo"
-               ReferencedContainer = "container:ShopDemo.xcodeproj">
+               BlueprintIdentifier = "6B885AD71B1B6D500008FB10"
+               BuildableName = "shopCartListDemo.app"
+               BlueprintName = "shopCartListDemo"
+               ReferencedContainer = "container:shopCartListDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6B17B0BE1B07814E0054B176"
-               BuildableName = "ShopDemoTests.xctest"
-               BlueprintName = "ShopDemoTests"
-               ReferencedContainer = "container:ShopDemo.xcodeproj">
+               BlueprintIdentifier = "6B885AF01B1B6D500008FB10"
+               BuildableName = "shopCartListDemoTests.xctest"
+               BlueprintName = "shopCartListDemoTests"
+               ReferencedContainer = "container:shopCartListDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6B17B0BE1B07814E0054B176"
-               BuildableName = "ShopDemoTests.xctest"
-               BlueprintName = "ShopDemoTests"
-               ReferencedContainer = "container:ShopDemo.xcodeproj">
+               BlueprintIdentifier = "6B885AF01B1B6D500008FB10"
+               BuildableName = "shopCartListDemoTests.xctest"
+               BlueprintName = "shopCartListDemoTests"
+               ReferencedContainer = "container:shopCartListDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6B17B0A51B07814E0054B176"
-            BuildableName = "ShopDemo.app"
-            BlueprintName = "ShopDemo"
-            ReferencedContainer = "container:ShopDemo.xcodeproj">
+            BlueprintIdentifier = "6B885AD71B1B6D500008FB10"
+            BuildableName = "shopCartListDemo.app"
+            BlueprintName = "shopCartListDemo"
+            ReferencedContainer = "container:shopCartListDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6B17B0A51B07814E0054B176"
-            BuildableName = "ShopDemo.app"
-            BlueprintName = "ShopDemo"
-            ReferencedContainer = "container:ShopDemo.xcodeproj">
+            BlueprintIdentifier = "6B885AD71B1B6D500008FB10"
+            BuildableName = "shopCartListDemo.app"
+            BlueprintName = "shopCartListDemo"
+            ReferencedContainer = "container:shopCartListDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6B17B0A51B07814E0054B176"
-            BuildableName = "ShopDemo.app"
-            BlueprintName = "ShopDemo"
-            ReferencedContainer = "container:ShopDemo.xcodeproj">
+            BlueprintIdentifier = "6B885AD71B1B6D500008FB10"
+            BuildableName = "shopCartListDemo.app"
+            BlueprintName = "shopCartListDemo"
+            ReferencedContainer = "container:shopCartListDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
