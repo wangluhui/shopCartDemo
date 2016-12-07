@@ -20,7 +20,8 @@
 #import "shopCartCell.h"
 @implementation shopCartCell
 - (void)awakeFromNib {
-    _headImageView.layer.cornerRadius = CGRectGetHeight(_headImageView.bounds)/2;
+    [super awakeFromNib];
+    _headImageView.layer.cornerRadius = 35.0f;
     _headImageView.layer.masksToBounds = YES;
 }
 
@@ -36,6 +37,8 @@
 }
 - (IBAction)onClickCartBtn:(UIButton *)sender {
     
-    self.shopCartBlock(self.headImageView);
+    if (self.shopCartBlock) {
+        self.shopCartBlock(self.headImageView);
+    }
 }
 @end

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2CE554891DF6CF42009077FA /* ShoppingCartBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CE554881DF6CF42009077FA /* ShoppingCartBtn.m */; };
 		6B885ADE1B1B6D500008FB10 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B885ADD1B1B6D500008FB10 /* main.m */; };
 		6B885AE11B1B6D500008FB10 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B885AE01B1B6D500008FB10 /* AppDelegate.m */; };
 		6B885AE41B1B6D500008FB10 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B885AE31B1B6D500008FB10 /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2CE554871DF6CF42009077FA /* ShoppingCartBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingCartBtn.h; sourceTree = "<group>"; };
+		2CE554881DF6CF42009077FA /* ShoppingCartBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShoppingCartBtn.m; sourceTree = "<group>"; };
 		6B885AD81B1B6D500008FB10 /* shopCartListDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = shopCartListDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B885ADC1B1B6D500008FB10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B885ADD1B1B6D500008FB10 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				6B885B071B1B709D0008FB10 /* shopCartCell.h */,
 				6B885B081B1B709D0008FB10 /* shopCartCell.m */,
 				6B885B091B1B709D0008FB10 /* shopCartCell.xib */,
+				2CE554871DF6CF42009077FA /* ShoppingCartBtn.h */,
+				2CE554881DF6CF42009077FA /* ShoppingCartBtn.m */,
 				6BB6045B1B20408E00EF5730 /* shopModel.h */,
 				6BB6045C1B20408E00EF5730 /* shopModel.m */,
 				6B885AE51B1B6D500008FB10 /* Main.storyboard */,
@@ -265,6 +270,7 @@
 				6B885AE41B1B6D500008FB10 /* ViewController.m in Sources */,
 				6B885B0A1B1B709D0008FB10 /* shopCartCell.m in Sources */,
 				6B885AE11B1B6D500008FB10 /* AppDelegate.m in Sources */,
+				2CE554891DF6CF42009077FA /* ShoppingCartBtn.m in Sources */,
 				6B885ADE1B1B6D500008FB10 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
